@@ -21,7 +21,7 @@ O projeto Amigo Secreto é uma aplicação web que permite sortear um amigo secr
 1.  **Clone o repositório:**
 
     ```bash
-    git clone [https://github.com/seu-nome-de-usuario/nome-do-repositorio.git](https://github.com/seu-nome-de-usuario/nome-do-repositorio.git)
+    git clone [https://github.com/jhonicunha/challenge-one-amigo-secreto.git](https://github.com/jhonicunha/challenge-one-amigo-secreto.git)
     ```
 
 2.  **Abra o arquivo `index.html` no seu navegador.**
