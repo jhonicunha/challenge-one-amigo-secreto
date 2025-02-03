@@ -32,27 +32,27 @@
         <div class="input-wrapper row">
           <input
             type="text"
-            id="amigo"
+            id="friend-input"
             class="input-name col"
             placeholder="Digite um nome"
           />
-          <button class="button-add col-4" onclick="adicionarAmigo()">
+          <button class="button-add col-4" onclick="addFriend()">
             Adicionar
           </button>
         </div>
 
         <ul
-          id="listaAmigos"
+          id="friends-list"
           class="name-list"
-          aria-labelledby="listaAmigos"
+          aria-labelledby="friendList"
           role="list"
         ></ul>
-        <ul id="resultado" class="result-list" aria-live="polite"></ul>
+        <ul id="result" class="result-list" aria-live="polite"></ul>
 
         <div class="button-container">
           <button
             class="button-draw"
-            onclick="sortearAmigo()"
+            onclick="drawFriend()"
             aria-label="Sortear amigo secreto"
           >
             <img
